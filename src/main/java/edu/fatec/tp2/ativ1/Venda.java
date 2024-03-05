@@ -6,7 +6,7 @@ package edu.fatec.tp2.ativ1;
 
 /**
  *
- * @author junin
+ * @author Silvio Junior
  */
 public class Venda {
     String codigoProduto;
